@@ -1,4 +1,4 @@
-This repository is the result of my journey through the Rust tutorial, [Learning Rust by Writing a Command Line App in 15 Minutes](https://rust-cli.github.io/book/tutorial/)
+This repository is the result of my journey through the Rust tutorial, [Learning Rust by Writing a Command Line App in 15 Minutes](https://rust-cli.github.io/book/tutorial/).  "In 15 minutes" is a lie, but it's a catchy title.
 
 # grrs
 Command line tool which takes a pattern and a path to a file and returns all the lines which that pattern occurred in the file.
