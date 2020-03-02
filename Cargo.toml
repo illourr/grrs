@@ -3,8 +3,14 @@ name = "grrs"
 version = "0.1.0"
 authors = ["illourr"]
 edition = "2018"
+default-run="grrs"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
 structopt = "0.2.10"
+indicatif = "0.14.0"
+log = "0.4.8"
+env_logger = "0.7.1"
+exitfailure = "0.5.1"
+failure = "0.1.6"
